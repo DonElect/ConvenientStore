@@ -1,0 +1,24 @@
+.message{
+  font-family: Arial;
+  font-size: 22px;
+  color: rgb(83, 81, 81);
+  vertical-align: middle;
+}
+.cat-picture{
+  width: 80px;
+  border-radius: 50px;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+.button{
+  margin-left: 150px;
+  background-color: rgb(25, 25, 246);
+  font-size: 22px;
+  color: white;
+  border: none;
+  padding-left: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 25px;
+  border-radius: 25px;
+}

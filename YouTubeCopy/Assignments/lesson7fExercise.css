@@ -1,0 +1,35 @@
+.email{
+  font-family: Arial;
+  font-size: 18px;
+  color: gray;
+  margin-bottom: 0px;
+  margin-bottom: 10px;
+}
+.input{
+  font-size: 20px;
+  margin-top: 0px;
+  width: 490px;
+  height: 40px;
+  border-radius: 5px;
+  margin-bottom: 0px;
+  border-color: black;
+  text-align: left;
+}
+.body{
+  font-family: Arial;
+  font-size: 20px;
+  color: gray;
+}
+.button{
+  font-family: Arial;
+  font-size: 25px;
+  background-color: blue;
+  color: white;
+  padding-left: 180px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-right: 180px;
+  border: none;
+  border-radius: 50px;
+  margin-top: 5px;
+}
